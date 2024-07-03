@@ -8,10 +8,11 @@ function App() {
 
   return (
     <>
-      <div className=''>
-
+      
+<div className = 'flex justify-center items-center h-screen '>
         <UserMessages/>
         </div>
+        
     </>
   )
 }
