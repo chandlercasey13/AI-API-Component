@@ -8,7 +8,7 @@ function App() {
     <>
     
 
-      <div className="w-screen h-screen flex justify-center " >
+      <div className=" h-screen flex justify-center " >
         
         
           <svg
